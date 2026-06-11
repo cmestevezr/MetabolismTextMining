@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local KEGG data and generated manifests
+data/*
+!data/.gitkeep
+
+# Local environment files
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
